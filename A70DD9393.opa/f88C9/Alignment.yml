@@ -1,0 +1,8 @@
+segment_sources:
+  I60F8F7BD:
+    type: origin_type
+    relation: translation
+    language: sa
+segment_pairs:
+  7986b6a4a5cb46ca9425287a5c954d94:
+    I60F8F7BD: 0447533e831745eeb904c6956c2b3d19

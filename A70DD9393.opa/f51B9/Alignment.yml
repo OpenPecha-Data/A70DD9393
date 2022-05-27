@@ -1,0 +1,16 @@
+segment_sources:
+  I60F8F7BD:
+    type: origin_type
+    relation: translation
+    language: sa
+segment_pairs:
+  dc591c41213c43d8ab7f3bc976080aa3:
+    I60F8F7BD: 355b7a74ae7d40bcad142423dc8e16e0
+  85fcf22e15f0452abad0085dc86ff976:
+    I60F8F7BD: c986ece83335466c90fa3390772cb82b
+  44f18d6620fb4bc794e93c4cb48e632b:
+    I60F8F7BD: 11da1091623b435bb13be578a8b6ac76
+  4eff54a47d014358bf6696016ddc93d5:
+    I60F8F7BD: ff0268edd6f24fdaad526849e8fd86bd
+  4982f32bd9d64004a1a0967b29d4476e:
+    I60F8F7BD: 602c4497e86448a5897826241f9ef9a3
